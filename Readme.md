@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Кирилл Ершов](https://htmlacademy.ru/profile/id171327).
-* Наставник: `IRINA`.
+* Наставник: `Ирина Ожерельева https://htmlacademy.ru/profile/id3762 `.
 
 ---
 
